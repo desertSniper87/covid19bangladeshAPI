@@ -25,9 +25,9 @@ def scrape_districts():
             district_confirm_dict[name] = confirmed
 
     district_confirm_dict['Dhaka'] = dhaka_city_count
-            
 
-    base_json = json.load(open('base.json'))
+
+    base_json = json.load(open('/home/covid19bangladesh/covid19bangladeshAPI/base.json'))
     final_json = deepcopy(base_json)
 
     for fx, f in enumerate(base_json['features']):
