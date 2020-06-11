@@ -233,5 +233,5 @@ en2bn_dhk_area = {
     "baganbari": "বাগানবাড়ী",
     "gulbag": "গুলবাগ",
     "gudaraghat": "গুদারাঘাট"
-} 
+}
 
