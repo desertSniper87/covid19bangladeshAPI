@@ -16,7 +16,7 @@ iedcr2bcc_district = {
     "Panchagar": "Panchagarh",
     "Potuakhali": "Patuakhali",
     "Rangmati": "Rangamati",
-    "Chapainawabganj": "Nawabganj"
+    # "Chapainawabganj": "Nawabganj"
 }
 
 en2bn_dhk_area = {
