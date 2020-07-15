@@ -1,10 +1,10 @@
 iedcr2bcc_district = {
     "B. Baria": "Brahamanbaria",
     "Barishal": "Barisal",
-    "Chattogram": "Chittagong",
+    # "Chattogram": "Chittagong",
     "Cox’s bazar": "Cox's Bazar",
     "Coxsbazar": "Cox's Bazar",
-    "Cumilla": "Comilla",
+    # "Cumilla": "Comilla",
     "Hobiganj": "Habiganj",
     "Jhalokathi": "Jhalokati",
     "Khagrachari": "Khagrachhari",
