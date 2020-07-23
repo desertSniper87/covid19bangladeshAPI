@@ -39,6 +39,6 @@ def scrape_districts(district_confirm_dict):
     for fx, f in enumerate(base_json['features']):
     #     print(fx, f)
         key = f['properties']['key']
-        final_json['features'][fx]['properties']['confirmed'] = str(district_confirm_dict[key])
+        final_json['features'][fx]['properties']['confirmed'] = str(district_confirm_dict.get(key))
 
     return final_json
