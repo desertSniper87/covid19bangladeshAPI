@@ -1,6 +1,7 @@
 iedcr2bcc_district = {
     "B. Baria": "Brahamanbaria",
     "Barishal": "Barisal",
+    "Jashore": "Jessore",
     # "Chattogram": "Chittagong",
     "Cox’s bazar": "Cox's Bazar",
     "Coxsbazar": "Cox's Bazar",
